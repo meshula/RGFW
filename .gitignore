@@ -1,3 +1,6 @@
+examples/microui_demo/microui_demo
+a.out
+
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
